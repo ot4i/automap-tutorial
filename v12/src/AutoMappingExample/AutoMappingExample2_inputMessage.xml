@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessagePool xmlns="http://wwww.ibm.com/iib/test/1.0.0">
+    <InputMessage timestamp="1622320264880" nodeId="FCMComposite_1_2" name="InputMessage" id="1622320264880-6">
+        <plainText>%7B%0D%0A+%09%22courtesytitle%22%3A+%22Mr%22%2C%0D%0A+%09%22firstname%22%3A+%22Joe%22%2C%0D%0A+++%09%22middlename%22%3A+%22Fred%22%2C%0D%0A+++%09%22lastname%22%3A+%22Bloggs%22%2C%0D%0A+++%09%22firstaddressline%22%3A+%221+Normal+Road%22%2C%0D%0A+++%09%22secondaddressline%22%3A+%22Average-ville%22%2C%0D%0A+++%09%22city%22%3A+%22Hursley%22%2C%0D%0A+++%09%22zipcode%22%3A+%22SO53+2JN%22%2C%0D%0A+++%09%22item-descr%22%3A+%22Laptop%22%2C%0D%0A+++%09%22item-quant%22%3A+%221%22%2C%0D%0A+++%09%22item-price%22%3A+%22599.99%22%0D%0A%7D</plainText>
+    </InputMessage>
+</MessagePool>

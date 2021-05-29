@@ -3,7 +3,7 @@
     "title": "Order",
     "type": "object",
     "properties": {
-    	"CourtesyTitle": {
+    	"courtesytitle": {
     	  	"title": "courtesytitle",
     	   	"type": "string"
     	},    	
