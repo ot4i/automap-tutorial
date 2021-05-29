@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/Output1" xmlns:tns="http://www.example.org/Output1" elementFormDefault="qualified">
+<element name="OutputMessage">
+<complexType>
+<sequence>
+<element name="MYLASXXXXX" type="string"/>
+<element name="MYLAXXXXXX" type="string"/>
+<element name="MYLXXXXXXX" type="string"/>
+<element name="MYXXXXXXXX" type="string"/>
+<element name="MXXXXXXXXX" type="string"/>
+<element name="XXXXXXXXXX" type="string"/>
+<element name="label" type="string"/>
+</sequence>
+</complexType>
+
+</element>
+</schema>

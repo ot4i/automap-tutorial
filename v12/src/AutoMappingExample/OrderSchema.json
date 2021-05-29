@@ -1,0 +1,51 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Order",
+    "type": "object",
+    "properties": {
+    	"CourtesyTitle": {
+    	  	"title": "courtesytitle",
+    	   	"type": "string"
+    	},    	
+    	"firstname": {
+    	  	"title": "firstname",
+    	   	"type": "string"
+    	},
+    	"middlename": {
+    	  	"title": "middlename",
+    	   	"type": "string"
+    	},    	 	
+    	"lastname": {
+    	  	"title": "lastname",
+    	   	"type": "string"
+    	},
+    	"firstaddressline": {
+    	  	"title": "firstaddressline",
+    	   	"type": "string"
+    	},
+    	"secondaddressline": {
+    	  	"title": "secondaddressline",
+    	   	"type": "string"
+    	},
+    	"city": {
+    	  	"title": "city",
+    	   	"type": "string"
+    	},
+    	"zipcode": {
+    	  	"title": "zipcode",
+    	   	"type": "string"
+    	},
+    	"item-descr": {
+    	  	"title": "item-descr",
+    	   	"type": "string"
+    	},
+    	"item-quant": {
+    	  	"title": "item-quant",
+    	   	"type": "string"
+    	},
+    	"item-price": {
+    	  	"title": "item-price",
+    	   	"type": "string"
+    	}
+   	 }
+}
